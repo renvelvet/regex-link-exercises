@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+.block-exercise {
+  width: 30%;
+}
+img {
+  width: 100%;
+}
+p {
+  text-align: center;
+}
+a {
+  color: black;
+}
+.carousel-caption {
+  font-weight: bold;
+  background: rgba(119, 155, 231, 0.5);
+}
